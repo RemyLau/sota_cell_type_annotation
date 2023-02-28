@@ -1,0 +1,42 @@
+[submodule "submodules/TOSICA"]
+	path = submodules/TOSICA
+	url = https://github.com/JackieHanLab/TOSICA
+[submodule "submodules/Cell_BLAST"]
+	path = submodules/Cell_BLAST
+	url = https://github.com/gao-lab/Cell_BLAST
+[submodule "submodules/saturn"]
+	path = submodules/saturn
+	url = https://github.com/snap-stanford/saturn
+[submodule "submodules/scWECTA"]
+	path = submodules/scWECTA
+	url = https://github.com/ttren-sc/scWECTA
+[submodule "submodules/CAME"]
+	path = submodules/CAME
+	url = https://github.com/XingyanLiu/CAME
+[submodule "submodules/tacco"]
+	path = submodules/tacco
+	url = https://github.com/simonwm/tacco
+[submodule "submodules/stellar"]
+	path = submodules/stellar
+	url = https://github.com/snap-stanford/stellar
+[submodule "submodules/scMatch"]
+	path = submodules/scMatch
+	url = https://github.com/forrest-lab/scMatch
+[submodule "submodules/SingleR"]
+	path = submodules/SingleR
+	url = https://github.com/dviraran/SingleR
+[submodule "submodules/mars"]
+	path = submodules/mars
+	url = https://github.com/snap-stanford/mars
+[submodule "submodules/moana"]
+	path = submodules/moana
+	url = https://github.com/yanailab/moana
+[submodule "submodules/OnClass"]
+	path = submodules/OnClass
+	url = https://github.com/wangshenguiuc/OnClass
+[submodule "submodules/SCSA"]
+	path = submodules/SCSA
+	url = https://github.com/bioinfo-ibms-pumc/SCSA
+[submodule "submodules/scBERT"]
+	path = submodules/scBERT
+	url = https://github.com/TencentAILabHealthcare/scBERT
